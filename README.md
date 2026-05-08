@@ -1,0 +1,2 @@
+# tdor
+Tradin Journal
